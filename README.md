@@ -22,16 +22,10 @@ Atualmente, estou sempre aprimorando minhas habilidades e desenvolvendo projetos
 
 ### 🧰 **Tecnologias e Ferramentas**
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <img src="https://techstack-generator.vercel.app/html-icon.svg" width="60" alt="HTML" style="margin: 8px;">
-  <img src="https://techstack-generator.vercel.app/css-icon.svg" width="60" alt="CSS" style="margin: 8px;">
   <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" alt="JavaScript" style="margin: 8px;">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="60" alt="Java" style="margin: 8px;">
-  <img src="https://techstack-generator.vercel.app/salesforce-icon.svg" width="60" alt="Salesforce" style="margin: 8px;">
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="60" alt="React" style="margin: 8px;">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" alt="Python" style="margin: 8px;">
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60" alt="MySQL" style="margin: 8px;">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60" alt="Git" style="margin: 8px;">
   <img src="https://gist.githubusercontent.com/EliasArauj/bf86ec839ce0a9893884dcd0052da850/raw/eb67999494a43a95626b2d936ec60f388cd0c443/SalesforceIcon.svg" alt="Salesforce Icon" width="100">
+<img src="https://gist.githubusercontent.com/EliasArauj/56e9120807fcb6302d737a43a5c1cd4e/raw/c3349cb5d26103fd427f371a5d45a6651f99a0a7/salesforce-animado.svg"alt="Salesforce Icon" width="100">
 
 
 
