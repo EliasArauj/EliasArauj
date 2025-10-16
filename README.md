@@ -1,3 +1,5 @@
+  <img src="https://gist.githubusercontent.com/EliasArauj/cb54205bf93134284f275a16667cb53d/raw/d14cea843e88ceab143c576b2852ca6d349ba72b/BannerSalesforce.svg" alt="Salesforce Icon" >
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=👋Olá,+Seja+bem-vindo!;😎Eu+sou+Elias+Araújo+do+Santos;💻Desenvolvedor+Front-end+e+Salesforce;🚀Apaixonado+por+Tecnologia+e+Inovação!)](https://git.io/typing-svg)
 
 ---
