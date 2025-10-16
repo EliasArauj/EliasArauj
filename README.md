@@ -31,7 +31,9 @@ Atualmente, estou sempre aprimorando minhas habilidades e desenvolvendo projetos
   <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" alt="Python" style="margin: 8px;">
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60" alt="MySQL" style="margin: 8px;">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60" alt="Git" style="margin: 8px;">
-  <img src="https://github.com/EliasArauj/EliasArauj/raw/main/assets/laptop-animado.svg" width="150" alt="Ícone Apex Animado"/>
+  <img src="https://gist.githubusercontent.com/EliasArauj/bf86ec839ce0a9893884dcd0052da850/raw/eb67999494a43a95626b2d936ec60f388cd0c443/SalesforceIcon.svg" alt="Salesforce Icon" width="100">
+
+
 
 
 </div>
