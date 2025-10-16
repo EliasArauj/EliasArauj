@@ -1,44 +1,50 @@
-name: generate animation
+name: 🐍 Generate Contribution Snake
 
 on:
-  # run automatically every 24 hours
+  # 🕐 Executa automaticamente a cada 24 horas
   schedule:
-    - cron: "0 */24 * * *" 
+    - cron: "0 0 * * *"
   
-  # allows to manually run the job at any time
+  # ▶️ Permite execução manual
   workflow_dispatch:
   
-  # run on every push on the master branch
+  # 🚀 Executa em cada push na branch principal
   push:
     branches:
-    - master
-    
-  
+      - main
+      - master
 
 jobs:
   generate:
+    name: 🎨 Generate Snake Animation
+    runs-on: ubuntu-latest
     permissions: 
       contents: write
-    runs-on: ubuntu-latest
     timeout-minutes: 5
-    
+
     steps:
-      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
-      - name: generate github-contribution-grid-snake.svg
+      # 📥 1. Clona o repositório
+      - name: 📦 Checkout repository
+        uses: actions/checkout@v4
+
+      # 🐍 2. Gera as animações do gráfico de contribuições
+      - name: ✨ Generate github-contribution-grid-snake SVG
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          
-          
-      # push the content of <build_dir> to a branch
-      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
-      - name: push github-contribution-grid-snake.svg to the output branch
+
+      # 🚀 3. Publica os arquivos SVG na branch 'output'
+      - name: 📤 Deploy snake animation to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # ✅ 4. Confirmação final
+      - name: ✅ Done!
+        run: echo "Snake animation successfully generated and deployed 🎉"
