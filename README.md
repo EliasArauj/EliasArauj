@@ -4,6 +4,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=👋Olá,+Seja+bem-vindo!;😎Eu+sou+Elias+Araújo+do+Santos;💻Desenvolvedor+Front-end+e+Salesforce;🚀Apaixonado+por+Tecnologia+e+Inovação!)](https://git.io/typing-svg)
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="output/snake-light.svg">
+  <img alt="Cobra animada do GitHub" src="output/snake-light.svg" width="95%">
+</picture>
 
 <p align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="120">
