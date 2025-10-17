@@ -55,10 +55,10 @@ Atualmente, estou sempre aprimorando minhas habilidades e desenvolvendo projetos
 <div align="center">
 
   <a href="https://www.linkedin.com/in/eliasaraujosantos/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="160">
+    <img src="https://gist.githubusercontent.com/EliasArauj/dd0df6e2cc112d6c7fac51d944f59bde/raw/21b21fb1a6a326c18bc1b2d39bcb8f3da76354a7/linkedin_01.svg" width="120">
   </a>
   &nbsp;&nbsp;
-  <a href="https://trailblazer.me/id/eliasaraujo" target="_blank">
+  <a href="https://www.salesforce.com/trailblazer/c40iznquwot8vyiyfa" target="_blank">
     <img src="https://img.shields.io/badge/Trailhead-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" width="160">
   </a>
 
