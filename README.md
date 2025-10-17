@@ -31,7 +31,7 @@ Atualmente, estou sempre aprimorando minhas habilidades e desenvolvendo projetos
   <img src="https://gist.githubusercontent.com/EliasArauj/63d8d06c3f100275c437dccfca77ef2a/raw/dd4d7a4504dc104f453382d2d05f50ff48892c5f/GitHubDesktop.svg"alt="GitHub Desktop" title="GitHub Desktop" width="110" >
   <img src="https://gist.githubusercontent.com/EliasArauj/179a46bb44a0a0d3015d5c83e4075f00/raw/53e5c1acbf9832cf4bb7d8b4ff18c18d698f9159/Css_01.svg"alt="CSS" title="CSS" width="110" >
    <img src="https://gist.githubusercontent.com/EliasArauj/c8a8bd7f0463655723ede97355142617/raw/a6fb52e6bc2b9a65796509fdef42b41c9afad286/JS_01.svg"alt="JS" title="JavaScrpit" width="110" >
-    <img src="https://gist.githubusercontent.com/EliasArauj/a7e4dc95c3efb6670597320ce2ec7b42/raw/5d28ea9d020779a4e54b2ecf348213fe74d13130/JS_03.svg" title="HTML" width="110">
+    <img src="https://gist.githubusercontent.com/EliasArauj/45f45425f47033bbb755798f37c23ca0/raw/e6583d9107ece26a7df444f9248d04e75f96db93/Html_4.svg" title="HTML" width="110">
   <img src="https://gist.githubusercontent.com/EliasArauj/bf86ec839ce0a9893884dcd0052da850/raw/eb67999494a43a95626b2d936ec60f388cd0c443/SalesforceIcon.svg" alt="LWC Icon" title="Lightning Web Components" width="120">
 </div>
 
