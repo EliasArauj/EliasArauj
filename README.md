@@ -1,12 +1,6 @@
   <img src="https://gist.githubusercontent.com/EliasArauj/cb54205bf93134284f275a16667cb53d/raw/d14cea843e88ceab143c576b2852ca6d349ba72b/BannerSalesforce.svg" alt="Salesforce Icon" >
     <img src="https://gist.githubusercontent.com/EliasArauj/832928da103801c483025411f42e8196/raw/3598011c99425f326e5d7941f3e91e4b76e02433/BemVindo.svg" alt="Salesforce Icon" >
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=👋Olá,+Seja+bem-vindo!;😎Eu+sou+Elias+Araújo+do+Santos;💻Desenvolvedor+Front-end+e+Salesforce;🚀Apaixonado+por+Tecnologia+e+Inovação!)](https://git.io/typing-svg)
-
-
-
----
-
 <p align="right">
   <img src="https://github.com/user-attachments/assets/ba43c753-a317-4389-b675-8534e5568d78" alt="Astro Clap Solo" width="400"/>
 </p>
