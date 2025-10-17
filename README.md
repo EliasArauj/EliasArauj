@@ -27,6 +27,8 @@ Atualmente, estou sempre aprimorando minhas habilidades e desenvolvendo projetos
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
   <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" alt="JavaScript" style="margin: 8px;">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60" alt="Git" style="margin: 8px;">
+  <img src="https://gist.githubusercontent.com/EliasArauj/1383430c6b59cfc23b336a342f84f3c3/raw/7b24e1b92999a09fb8c34f364166fdaf2dbaf3d1/Css.svg"alt="Salesforce Icon" width="100">
+    <img src="https://gist.githubusercontent.com/EliasArauj/3f1c2445b71edc92cdc2998130db4338/raw/e02a5205808a87449bbd64dbc29ec4d980fc9773/Html.svg" width="100">
   <img src="https://gist.githubusercontent.com/EliasArauj/bf86ec839ce0a9893884dcd0052da850/raw/eb67999494a43a95626b2d936ec60f388cd0c443/SalesforceIcon.svg" alt="Salesforce Icon" width="100">
 <img src="https://gist.githubusercontent.com/EliasArauj/56e9120807fcb6302d737a43a5c1cd4e/raw/c3349cb5d26103fd427f371a5d45a6651f99a0a7/salesforce-animado.svg"alt="Salesforce Icon" width="100">
 
