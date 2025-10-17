@@ -4,11 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=👋Olá,+Seja+bem-vindo!;😎Eu+sou+Elias+Araújo+do+Santos;💻Desenvolvedor+Front-end+e+Salesforce;🚀Apaixonado+por+Tecnologia+e+Inovação!)](https://git.io/typing-svg)
 
 ---
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="output/snake-light.svg">
-  <img alt="Cobra animada do GitHub" src="output/snake-light.svg" width="95%">
-</picture>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="120">
@@ -69,16 +65,25 @@ Atualmente, estou sempre aprimorando minhas habilidades e desenvolvendo projetos
 
 ---
 
-### 📊 **Minhas Contribuições**
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EliasArauj/EliasArauj/output/snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EliasArauj/EliasArauj/output/snake-light.svg">
-    <img alt="Animação da cobra das contribuições do GitHub" src="https://raw.githubusercontent.com/EliasArauj/EliasArauj/output/snake-light.svg" width="95%">
-  </picture>
-  <br>
-  <sub>✨ Gerado automaticamente com ❤️ por <a href="https://github.com/Platane/snk">Platane/snk</a></sub>
-</div>
+### 📊 
+<picture style="background-color: transparent; display: flex; justify-content: center;">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-light.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-light.svg"
+    style="background-color: transparent"
+  />
+</picture>
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
 
 ---
 
