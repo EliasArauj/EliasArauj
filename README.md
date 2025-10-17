@@ -28,6 +28,7 @@ Atualmente, estou sempre aprimorando minhas habilidades e desenvolvendo projetos
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
   <img src="https://gist.githubusercontent.com/EliasArauj/95fd7bca48b69ad0b91e3d400ab831db/raw/f27fe5ad3a30ca80003522f52ef49de3a6b480bd/Salesforce_Icon_01.svg" alt="Salesforce Icon" title="Salesforce" width="110">
+  <img src="https://gist.githubusercontent.com/EliasArauj/bdf2114a27068cc679f925d586890f46/raw/bed06127e24e58775f714fe49c72928027fd0e4f/Apex_01.svg" alt="Apex" title="Apex" width="110">
   <img src="https://gist.githubusercontent.com/EliasArauj/63d8d06c3f100275c437dccfca77ef2a/raw/dd4d7a4504dc104f453382d2d05f50ff48892c5f/GitHubDesktop.svg"alt="GitHub Desktop" title="GitHub Desktop" width="110" >
   <img src="https://gist.githubusercontent.com/EliasArauj/179a46bb44a0a0d3015d5c83e4075f00/raw/53e5c1acbf9832cf4bb7d8b4ff18c18d698f9159/Css_01.svg"alt="CSS" title="CSS" width="110" >
    <img src="https://gist.githubusercontent.com/EliasArauj/c8a8bd7f0463655723ede97355142617/raw/a6fb52e6bc2b9a65796509fdef42b41c9afad286/JS_01.svg"alt="JS" title="JavaScrpit" width="110" >
