@@ -26,15 +26,12 @@ Atualmente, estou sempre aprimorando minhas habilidades e desenvolvendo projetos
 ### 🧰 **Tecnologias e Ferramentas**
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60" alt="Git" style="margin: 8px;">
-  <img src="https://gist.githubusercontent.com/EliasArauj/63d8d06c3f100275c437dccfca77ef2a/raw/dd4d7a4504dc104f453382d2d05f50ff48892c5f/GitHubDesktop.svg"alt="GitHub Desktop" title="GitHub Desktop" width="120" >
-  <img src="https://gist.githubusercontent.com/EliasArauj/1383430c6b59cfc23b336a342f84f3c3/raw/5a146a838bd3e918169420f382d5f0b4c5d1c370/Css.svg"alt="CSS" title="CSS" width="140" >
+  <img src="https://gist.githubusercontent.com/EliasArauj/95fd7bca48b69ad0b91e3d400ab831db/raw/f27fe5ad3a30ca80003522f52ef49de3a6b480bd/Salesforce_Icon_01.svg" alt="Salesforce Icon" title="Salesforce" width="110">
+  <img src="https://gist.githubusercontent.com/EliasArauj/63d8d06c3f100275c437dccfca77ef2a/raw/dd4d7a4504dc104f453382d2d05f50ff48892c5f/GitHubDesktop.svg"alt="GitHub Desktop" title="GitHub Desktop" width="110" >
+  <img src="https://gist.githubusercontent.com/EliasArauj/179a46bb44a0a0d3015d5c83e4075f00/raw/53e5c1acbf9832cf4bb7d8b4ff18c18d698f9159/Css_01.svg"alt="CSS" title="CSS" width="110" >
    <img src="https://gist.githubusercontent.com/EliasArauj/c8a8bd7f0463655723ede97355142617/raw/a6fb52e6bc2b9a65796509fdef42b41c9afad286/JS_01.svg"alt="JS" title="JavaScrpit" width="110" >
     <img src="https://gist.githubusercontent.com/EliasArauj/3f1c2445b71edc92cdc2998130db4338/raw/e02a5205808a87449bbd64dbc29ec4d980fc9773/Html.svg" title="HTML" width="120">
   <img src="https://gist.githubusercontent.com/EliasArauj/bf86ec839ce0a9893884dcd0052da850/raw/eb67999494a43a95626b2d936ec60f388cd0c443/SalesforceIcon.svg" alt="LWC Icon" title="Lightning Web Components" width="120">
-<img src="https://gist.githubusercontent.com/EliasArauj/95fd7bca48b69ad0b91e3d400ab831db/raw/f27fe5ad3a30ca80003522f52ef49de3a6b480bd/Salesforce_Icon_01.svg" alt="Salesforce Icon" title="Salesforce" width="110">
-
-
 </div>
 
 ---
