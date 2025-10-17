@@ -6,6 +6,7 @@
 ---
 
 
+
 <p align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="120">
 </p>
@@ -52,6 +53,7 @@ Atualmente, estou sempre aprimorando minhas habilidades e desenvolvendo projetos
 
 ### 🌐 **Onde me encontrar**
 
+
 <div align="center">
 
   <a href="https://www.linkedin.com/in/elias-dos-santos/" target="_blank">
@@ -59,7 +61,7 @@ Atualmente, estou sempre aprimorando minhas habilidades e desenvolvendo projetos
   </a>
   &nbsp;&nbsp;
   <a href="https://www.salesforce.com/trailblazer/c40iznquwot8vyiyfa" target="_blank">
-    <img src="https://img.shields.io/badge/Trailhead-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" width="160">
+    <img src="https://github.com/user-attachments/assets/94f98362-e191-4bd1-bffe-f65947c15a50" width="120" alt="Imagem menor">
   </a>
 
 </div>
