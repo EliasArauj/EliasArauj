@@ -99,7 +99,7 @@ Atualmente, estou sempre aprimorando minhas habilidades e desenvolvendo projetos
     <img src="https://gist.githubusercontent.com/EliasArauj/a96d677b0484ffd593c9e21db6d41f2b/raw/28b710cc4c69b06bf1f5e9ca91ad289cf64f7372/NomeDoRepositorio.svg" width="900">
   </a>
 </div>
----
+<img src="https://gist.githubusercontent.com/EliasArauj/d7586a1f5841741b205f9fae60422b34/raw/b9c4b8ebc81b8f9ab004e23da8f7826e2a5acf7b/Linha_02.svg" width="900">
 <div align="center">
   <a href="https://github.com/EliasArauj/BuscarCep" target="_blank">
     <img src="https://gist.githubusercontent.com/EliasArauj/5fe63c5b852e5419d9acd7e52e6c4017/raw/2211dc3f8a2f0412f3a509bdbe8e6b82709119b5/ViaCep_02.svg" width="">
