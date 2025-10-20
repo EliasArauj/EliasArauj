@@ -101,12 +101,14 @@ Atualmente, estou sempre aprimorando minhas habilidades e desenvolvendo projetos
 </div>
 <img src="https://gist.githubusercontent.com/EliasArauj/d7586a1f5841741b205f9fae60422b34/raw/b9c4b8ebc81b8f9ab004e23da8f7826e2a5acf7b/Linha_02.svg" width="900">
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <a href="https://github.com/EliasArauj/BuscarCep" target="_blank">
-    <img src="https://gist.githubusercontent.com/EliasArauj/5fe63c5b852e5419d9acd7e52e6c4017/raw/2211dc3f8a2f0412f3a509bdbe8e6b82709119b5/ViaCep_02.svg" width="450">
-  </a>
-
-  <a href="https://github.com/EliasArauj/BuscarCep" target="_blank">
-    <img src="https://gist.githubusercontent.com/EliasArauj/a290bf6aa74450b8ea82a59fca589089/raw/c55f7c975ece887561ce9df7f7e0e88560099ba5/Gera%2520PDF%252001.svg" width="400">
-  </a>
+<div align="center">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 50px; flex-wrap: wrap;">
+    <a href="https://github.com/EliasArauj/BuscarCep" target="_blank">
+      <img src="https://gist.githubusercontent.com/EliasArauj/5fe63c5b852e5419d9acd7e52e6c4017/raw/2211dc3f8a2f0412f3a509bdbe8e6b82709119b5/ViaCep_02.svg" width="350">
+    </a>
+    <a href="https://github.com/EliasArauj/PDFGeneration" target="_blank">
+      <img src="https://gist.githubusercontent.com/EliasArauj/a290bf6aa74450b8ea82a59fca589089/raw/c55f7c975ece887561ce9df7f7e0e88560099ba5/Gera%2520PDF%252001.svg" width="300">
+    </a>
+  </div>
 </div>
+
