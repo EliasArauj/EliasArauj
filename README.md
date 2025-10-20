@@ -102,7 +102,7 @@ Atualmente, estou sempre aprimorando minhas habilidades e desenvolvendo projetos
 <img src="https://gist.githubusercontent.com/EliasArauj/d7586a1f5841741b205f9fae60422b34/raw/b9c4b8ebc81b8f9ab004e23da8f7826e2a5acf7b/Linha_02.svg" width="900">
 
 <div align="center">
-  <div style="display: flex; justify-content: center; align-items: center; gap: 100px; flex-wrap: wrap;">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 50px; flex-wrap: wrap;">
     <a href="https://github.com/EliasArauj/BuscarCep" target="_blank">
       <img src="https://gist.githubusercontent.com/EliasArauj/5fe63c5b852e5419d9acd7e52e6c4017/raw/2211dc3f8a2f0412f3a509bdbe8e6b82709119b5/ViaCep_02.svg" width="450">
     </a>
