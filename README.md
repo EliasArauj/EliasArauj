@@ -103,11 +103,14 @@ Atualmente, estou sempre aprimorando minhas habilidades e desenvolvendo projetos
 
 <div align="center">
   <div style="display: flex; justify-content: center; align-items: center; gap: 50px; flex-wrap: wrap;">
-    <a href="https://github.com/EliasArauj/BuscarCep" target="_blank">
-      <img src="https://gist.githubusercontent.com/EliasArauj/5fe63c5b852e5419d9acd7e52e6c4017/raw/2211dc3f8a2f0412f3a509bdbe8e6b82709119b5/ViaCep_02.svg" width="420">
+    <a href="https://github.com/EliasArauj/DynamicCNPJAccount" target="_blank">
+      <img src="https://gist.githubusercontent.com/EliasArauj/b9c1ff31979fd625d1bc62a54ffcc999/raw/c9980208ac9926c72b037551212d34d97f679589/Criar%2520Conta%252001.svg" width="420">
     </a>
     <a href="https://github.com/EliasArauj/PDFGeneration" target="_blank">
       <img src="https://gist.githubusercontent.com/EliasArauj/a290bf6aa74450b8ea82a59fca589089/raw/106ee05e206cd8dad59b8a5f2674894a27c49ff3/Gera%2520PDF%252001.svg" width="420">
+    </a>
+    <a href="https://github.com/EliasArauj/BuscarCep" target="_blank">
+      <img src="https://gist.githubusercontent.com/EliasArauj/5fe63c5b852e5419d9acd7e52e6c4017/raw/2211dc3f8a2f0412f3a509bdbe8e6b82709119b5/ViaCep_02.svg" width="420">
     </a>
   </div>
 </div>
