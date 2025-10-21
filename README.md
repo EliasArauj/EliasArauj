@@ -104,7 +104,7 @@ Atualmente, estou sempre aprimorando minhas habilidades e desenvolvendo projetos
 <div align="center">
   <div style="display: flex; justify-content: center; align-items: center; gap: 50px; flex-wrap: wrap;">
     <a href="https://github.com/EliasArauj/DynamicCNPJAccount" target="_blank">
-      <img src="https://gist.githubusercontent.com/EliasArauj/b9c1ff31979fd625d1bc62a54ffcc999/raw/c9980208ac9926c72b037551212d34d97f679589/Criar%2520Conta%252001.svg" width="420">
+      <img src="https://gist.githubusercontent.com/EliasArauj/b9c1ff31979fd625d1bc62a54ffcc999/raw/56c99f7d9318307d424ffbc0c2b5d93a00fb890b/Criar%2520Conta%252001.svg" width="420">
     </a>
     <a href="https://github.com/EliasArauj/PDFGeneration" target="_blank">
       <img src="https://gist.githubusercontent.com/EliasArauj/a290bf6aa74450b8ea82a59fca589089/raw/106ee05e206cd8dad59b8a5f2674894a27c49ff3/Gera%2520PDF%252001.svg" width="420">
