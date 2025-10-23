@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24,27&height=300&section=header&text=Elias%20Araújo&fontSize=90&fontAlignY=35&desc=Salesforce%20Developer%20|%20Front-end%20Specialist&descAlignY=51&descAlign=50&animation=fadeIn" width="100%">
   
 </div>
-
+ 
 <div align="center">
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=800&lines=🚀+Lightning+Web+Components+Expert;⚡+Apex+%26+Visualforce+Developer;🎯+JavaScript+%26+Web+Components+Ninja;💡+Transformando+Ideias+em+Soluções)](https://git.io/typing-svg)
