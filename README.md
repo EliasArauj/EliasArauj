@@ -1,5 +1,5 @@
 <div align="center">
-  
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24,27&height=300&section=header&text=Elias%20Araújo&fontSize=90&fontAlignY=35&desc=Salesforce%20Developer%20|%20Front-end%20Specialist&descAlignY=51&descAlign=50&animation=fadeIn" width="100%">
   
 </div>
