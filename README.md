@@ -194,27 +194,29 @@ Componente LWC para busca e preenchimento automático de endereços através da 
 - ✅ UX otimizada
 
 <a href="https://github.com/EliasArauj/BuscarCep">
-  <img src="https://gist.githubusercontent.com/EliasArauj/5fe63c5b852e5419d9acd7e52e6c4017/raw/2211dc3f8a2f0412f3a509bdbe8e6b82709119b5/ViaCep_02.svg" width="100%">
+  <img src="https://gist.githubusercontent.com/EliasArauj/5fe63c5b852e5419d9acd7e52e6c4017/raw/a17b75e3ecb2d8a1b55c420b7eeaaf77b35b4637/ViaCep_02.svg" width="100%">
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🧩 Quote Clone System
+### 🧩 [Criar Oportunidade Com Varios Produtos](https://github.com/EliasArauj/CriarOportunidadeComVariosProdutos)
 
-Sistema avançado de clonagem de cotações e Quote Line Items com preservação de hierarquias e relacionamentos complexos.
+OpportunityMultiProduct é uma classe Apex poderosa que simplifica drasticamente a criação de Oportunidades no Salesforce.
 
-**Stack:** `Apex` `SOQL` `Trigger Framework` `Bulk Operations`
+**Stack:** `Apex` `SOQL` `LWC` 
 
 **Features:**
-- ✅ Clonagem em massa otimizada
-- ✅ Preservação de relações
-- ✅ Validação de integridade
-- ✅ Performance otimizada
+- ✅ Uma única chamada cria tudo - Oportunidade + Produtos em uma operação
+- ✅ Gerenciamento inteligente de PricebookEntries - Busca e cria automaticamente
+- ✅ Ativação automática de produtos inativos - Reativa produtos quando necessário
+- ✅ Suporte a preços personalizados - Defina preços específicos por produto
 
 <br>
 
-> 🚀 **Em desenvolvimento** - Documentação em breve!
+<a href="https://github.com/EliasArauj/BuscarCep">
+  <img src="https://gist.githubusercontent.com/EliasArauj/44e327046e7edb2de03797a4131fa47a/raw/1b969a4006f0fd97eb2df4f44ee4e6ca9ddf3ae9/Teste%252003.svg" width="100%">
+</a>
 
 </td>
 </tr>
