@@ -207,12 +207,11 @@ OpportunityMultiProduct é uma classe Apex poderosa que simplifica drasticamente
 **Stack:** `Apex` `SOQL` `LWC` 
 
 **Features:**
-- ✅ Uma única chamada cria tudo - Oportunidade + Produtos em uma operação
-- ✅ Gerenciamento inteligente de PricebookEntries - Busca e cria automaticamente
-- ✅ Ativação automática de produtos inativos - Reativa produtos quando necessário
-- ✅ Suporte a preços personalizados - Defina preços específicos por produto
+- ✅ Uma única chamada - Oportunidade + Produtos 
+- ✅ Gerenciamento inteligente de PricebookEntries 
+- ✅ Ativação automática de produtos inativos 
+- ✅ Suporte a preços personalizados 
 
-<br>
 
 <a href="https://github.com/EliasArauj/BuscarCep">
   <img src="https://gist.githubusercontent.com/EliasArauj/44e327046e7edb2de03797a4131fa47a/raw/1b969a4006f0fd97eb2df4f44ee4e6ca9ddf3ae9/Teste%252003.svg" width="100%">
