@@ -202,7 +202,7 @@ Componente LWC para busca e preenchimento automático de endereços através da 
 
 ### 🧩 [Criar Oportunidade Com Varios Produtos](https://github.com/EliasArauj/CriarOportunidadeComVariosProdutos)
 
-OpportunityMultiProduct é uma classe Apex poderosa que simplifica drasticamente a criação de Oportunidades no Salesforce.
+OpportunityMultiProduct é uma classe Apex poderosa que simplifica drasticamente a criação de Oportunidades.
 
 **Stack:** `Apex` `SOQL` `LWC` 
 
