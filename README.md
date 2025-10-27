@@ -25,7 +25,7 @@ class EliasAraújo extends Developer implements SalesforceExpert {
   
   readonly name = "Elias Araújo do Santos";
   readonly role = "Front-end Developer | Salesforce Specialist";
-  readonly location = "Conceição do Coité, Bahia, BR 🇧🇷";
+  readonly location = "Barrocas, Bahia, BR 🇧🇷";
   
   private skills = {
     salesforce: ["Lightning Web Components", "Apex", "Visualforce", "SOQL"],
