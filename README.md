@@ -222,7 +222,7 @@ OpportunityMultiProduct é uma classe Apex poderosa que simplifica drasticamente
 <tr>
 <td width="50%" valign="top">
 
-### 🏆 [Superbadge: Apex Web Services](https://trailhead.salesforce.com/content/learn/superbadges/superbadge-apex-web-services)
+### 🏆 [Superbadge: Apex Web Services](https://github.com/EliasArauj/Superbadge-Apex-Web-Services)
 
 Desafio avançado de Trailhead para desenvolvimento de web services REST e SOAP em Apex, testes robustos e integração.
 
@@ -234,7 +234,7 @@ Desafio avançado de Trailhead para desenvolvimento de web services REST e SOAP 
 - ✅ Testes abrangentes para lógica REST e SOAP
 - ✅ Conformidade com requisitos de certificação
 
-<a href="https://trailhead.salesforce.com/content/learn/superbadges/superbadge-apex-web-services">
+<a href="https://github.com/EliasArauj/Superbadge-Apex-Web-Services">
   <img src="https://gist.githubusercontent.com/EliasArauj/eea3ab95b11af46edc2602bd1b074341/raw/2d98e95be5a4f9a0aa1c6ebff23a7bab964ac0b0/Superbadge%252001.svg" width="100%">
 </a>
 
