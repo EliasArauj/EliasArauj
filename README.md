@@ -200,7 +200,7 @@ Componente LWC para busca e preenchimento automático de endereços através da 
 </td>
 <td width="50%" valign="top">
 
-### 🧩 [Criar Oportunidade Com Varios Produtos](https://github.com/EliasArauj/CriarOportunidadeComVariosProdutos)
+### 🧩 [Criar Oportunidade Com Vários Produtos](https://github.com/EliasArauj/CriarOportunidadeComVariosProdutos)
 
 OpportunityMultiProduct é uma classe Apex poderosa que simplifica drasticamente a criação de Oportunidades.
 
@@ -212,16 +212,41 @@ OpportunityMultiProduct é uma classe Apex poderosa que simplifica drasticamente
 - ✅ Ativação automática de produtos inativos 
 - ✅ Suporte a preços personalizados 
 
-
-<a href="https://github.com/EliasArauj/BuscarCep">
+<a href="https://github.com/EliasArauj/CriarOportunidadeComVariosProdutos">
   <img src="https://gist.githubusercontent.com/EliasArauj/44e327046e7edb2de03797a4131fa47a/raw/1b969a4006f0fd97eb2df4f44ee4e6ca9ddf3ae9/Teste%252003.svg" width="100%">
 </a>
 
 </td>
 </tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🏆 [Superbadge: Apex Web Services](https://trailhead.salesforce.com/content/learn/superbadges/superbadge-apex-web-services)
+
+Desafio avançado de Trailhead para desenvolvimento de web services REST e SOAP em Apex, testes robustos e integração com Salesforce.
+
+**Stack:** `Apex` `REST API` `SOAP API` `Testing` 
+
+**Features:**
+- ✅ Desenvolver classes Apex como REST web services
+- ✅ Expor métodos Apex como SOAP web services
+- ✅ Testes abrangentes para lógica REST e SOAP
+- ✅ Conformidade com requisitos de certificação e uso de dados simulados
+
+<a href="https://trailhead.salesforce.com/content/learn/superbadges/superbadge-apex-web-services">
+  <img src="https://gist.githubusercontent.com/EliasArauj/eea3ab95b11af46edc2602bd1b074341/raw/2d98e95be5a4f9a0aa1c6ebff23a7bab964ac0b0/Superbadge%252001.svg" width="100%">
+</a>
+
+</td>
+<td width="50%" valign="top">
+<!-- Espaço vazio para manter o layout uniforme -->
+</td>
+</tr>
 </table>
 
 </div>
+
 
 <br>
 
