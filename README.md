@@ -235,7 +235,7 @@ Desafio avançado de Trailhead para desenvolvimento de web services REST e SOAP 
 - ✅ Conformidade com requisitos de certificação
 
 <a href="https://github.com/EliasArauj/Superbadge-Apex-Web-Services">
-  <img src="https://gist.githubusercontent.com/EliasArauj/eea3ab95b11af46edc2602bd1b074341/raw/2d98e95be5a4f9a0aa1c6ebff23a7bab964ac0b0/Superbadge%252001.svg" width="100%">
+  <img src="https://gist.githubusercontent.com/EliasArauj/604f3e397202a58ada3bfc971235269c/raw/dbb3e7ac4aa99849339610d4c3d742ec7bdb2c9b/Superbadge:%2520Apex%2520Web%2520Services%252002.svg" width="100%">
 </a>
 
 </td>
