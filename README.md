@@ -240,7 +240,24 @@ Desafio avançado de Trailhead para desenvolvimento de web services REST e SOAP 
 
 </td>
 <td width="50%" valign="top">
-<!-- Espaço vazio para manter o layout uniforme -->
+
+### 🥇 [Superbadge: Formulas](https://github.com/EliasArauj/Superbadge-Formulas)
+
+Desafio de Trailhead para criação de campos de fórmula avançados, incluindo Lead Score, Lead Rating e KPI de Service.
+
+**Stack:** `Salesforce` `Formulas` `Reports` `Permission Sets` 
+
+**Features:**
+- ✅ Lead Score automático baseado em múltiplos critérios
+- ✅ Lead Rating com estrelas e acessibilidade (alt text)
+- ✅ Opportunity Value em Assets sem dar acesso a Opportunity
+- ✅ Severity Number para relatórios e dashboards
+- ✅ Agrupamento por Close Month para relatórios exportáveis
+
+<a href="https://github.com/EliasArauj/Superbadge-Formulas">
+  <img src="https://gist.githubusercontent.com/EliasArauj/placeholder/raw/formulas.svg" width="100%">
+</a>
+
 </td>
 </tr>
 </table>
