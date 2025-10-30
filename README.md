@@ -250,12 +250,11 @@ Desafio de Trailhead para criação de campos de fórmula avançados, incluindo 
 **Features:**
 - ✅ Lead Score automático baseado em múltiplos critérios
 - ✅ Lead Rating com estrelas e acessibilidade (alt text)
-- ✅ Opportunity Value em Assets sem dar acesso a Opportunity
 - ✅ Severity Number para relatórios e dashboards
-- ✅ Agrupamento por Close Month para relatórios exportáveis
+- ✅ Agrupamento por Close Month para relatórios
 
 <a href="https://github.com/EliasArauj/Superbadge-Formulas">
-  <img src="https://gist.githubusercontent.com/EliasArauj/placeholder/raw/formulas.svg" width="100%">
+  <img src="https://gist.githubusercontent.com/EliasArauj/1e066781c4adab6fbb2e009e81eb6b2d/raw/75dfb939b7f74ed2686afa8f399130b9ffc3ca1f/f.svg" width="100%">
 </a>
 
 </td>
